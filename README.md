@@ -105,7 +105,7 @@
 
 
   <img align="left" alt="Olohitai's GitHub Stats" src="github-readme-stats-j6ot.vercel.app
-/api?username=Olohitai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+/api?username=Olohitai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
 </details>
 
