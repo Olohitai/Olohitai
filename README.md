@@ -102,7 +102,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olohitai)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olohitai)
 
 
 
